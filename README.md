@@ -68,10 +68,16 @@ I'm a **Computer Science Engineering (AI & Machine Learning)** student passionat
 </div>
 
 
-### 🔝 Top Contributed Repo
+<div align="center">
+
+## 🔝 Top Contributed Repository
+
 ![](https://github-contributor-stats.vercel.app/api?username=RishikeshPalkar&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=RishikeshPalkar&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=RishikeshPalkar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/RishikeshPalkar)
+
+</div>
+
+
