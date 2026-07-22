@@ -12,31 +12,6 @@ I'm a **Computer Science Engineering (AI & Machine Learning)** student passionat
 - 🚀 Love solving real-world problems through clean, efficient, and scalable software
 - 🎯 Aspiring **Software Engineer** focused on **Backend Systems, Distributed Applications, and AI**
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Java` • `Kotlin` • `Python` • `C++` • `JavaScript` • `SQL`
-
-### ⚙️ Backend
-`Spring Boot` • `FastAPI` • `REST APIs` • `JDBC`
-
-### 🎨 Frontend
-`React` • `HTML` • `CSS` • `Tailwind CSS`
-
-### 🗄️ Databases
-`MySQL` • `PostgreSQL` • `Firebase` • `Room Database`
-
-### 🤖 AI / Machine Learning
-`TensorFlow` • `Scikit-learn` • `XGBoost` • `Pandas` • `NumPy`
-
-### 🔧 Tools & Platforms
-`Git` • `GitHub` • `Docker` • `Postman` • `IntelliJ IDEA` • `Android Studio` • `VS Code`
-
----
-
-> *"Code with purpose, build with passion, and never stop learning."* 🚀
 
 
 ## 🌐 Socials:
