@@ -54,11 +54,11 @@ I'm a **Computer Science Engineering (AI & Machine Learning)** student passionat
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RishikeshPalkar&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
+<!--  
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=RishikeshPalkar&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
+-->
 ---
 
 ## ✍️ Random Dev Quote
