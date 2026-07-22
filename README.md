@@ -1,5 +1,42 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Rishikesh Palkar**, a Computer Science Engineering (AI & ML) student passionate about building scalable software and solving real-world problems through technology.<br><br>- 💻 Interested in **Backend Development, Machine Learning, and Android Development**<br>- 🌱 Currently learning **Java, Spring Boot, System Design, and Data Structures & Algorithms**<br>- 🤖 Experienced with **Python, TensorFlow, Scikit-learn, and AI/ML projects**<br>- 📱 Built Android applications using **Kotlin, Jetpack Compose, MVVM, and Room Database**<br>- 🌐 Comfortable working with **React, FastAPI, Docker, MySQL, and PostgreSQL**<br>- 🚀 Always exploring new technologies and contributing to projects that create real impact.<br>- 🎯 Goal: Become a Software Engineer specializing in Backend Systems and AI-powered applications.<br><br> 🛠️ Tech Stack<br><br>**Languages:** Java • Kotlin • Python • C++ • JavaScript • SQL<br><br>**Backend:** Spring Boot • FastAPI • REST APIs • JDBC<br><br>**Frontend:** React • HTML • CSS • Tailwind CSS<br><br>**Databases:** MySQL • PostgreSQL • Firebase • Room Database<br><br>**AI/ML:** TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy<br><br>**Tools:** Git • GitHub • Docker • Postman • IntelliJ IDEA • Android Studio • VS Code<br><br>---<br><br>> *"I enjoy transforming ideas into practical software while continuously learning and improving my engineering skills."*
+# 💫 About Me
+
+## 👋 Hello, I'm Rishikesh Palkar
+
+I'm a **Computer Science Engineering (AI & Machine Learning)** student passionate about designing scalable software, building intelligent applications, and continuously learning new technologies.
+
+- 💻 Passionate about **Backend Development, Machine Learning, and Android Development**
+- 🌱 Currently learning **Java, Spring Boot, System Design, and Data Structures & Algorithms**
+- 🤖 Building AI-powered applications with **Python, TensorFlow, Scikit-learn, and XGBoost**
+- 📱 Developing modern Android apps using **Kotlin, Jetpack Compose, MVVM, and Room**
+- 🌐 Experienced with **React, FastAPI, Docker, MySQL, PostgreSQL, and REST APIs**
+- 🚀 Love solving real-world problems through clean, efficient, and scalable software
+- 🎯 Aspiring **Software Engineer** focused on **Backend Systems, Distributed Applications, and AI**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Java` • `Kotlin` • `Python` • `C++` • `JavaScript` • `SQL`
+
+### ⚙️ Backend
+`Spring Boot` • `FastAPI` • `REST APIs` • `JDBC`
+
+### 🎨 Frontend
+`React` • `HTML` • `CSS` • `Tailwind CSS`
+
+### 🗄️ Databases
+`MySQL` • `PostgreSQL` • `Firebase` • `Room Database`
+
+### 🤖 AI / Machine Learning
+`TensorFlow` • `Scikit-learn` • `XGBoost` • `Pandas` • `NumPy`
+
+### 🔧 Tools & Platforms
+`Git` • `GitHub` • `Docker` • `Postman` • `IntelliJ IDEA` • `Android Studio` • `VS Code`
+
+---
+
+> *"Code with purpose, build with passion, and never stop learning."* 🚀
 
 
 ## 🌐 Socials:
