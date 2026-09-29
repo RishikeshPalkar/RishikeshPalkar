@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Rishikesh Palkar
 
-I'm a **Computer Science Engineering (AI & Machine Learning)** student passionate about designing scalable software, building intelligent applications, and continuously learning new technologies.
+I'm a **Computer Science Engineering ** student passionate about designing scalable software, building intelligent applications, and continuously learning new technologies.
 
 - 💻 Passionate about **Backend Development, Machine Learning, and Android Development**
 - 🌱 Currently learning **Java, Spring Boot, System Design, and Data Structures & Algorithms**
